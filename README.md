@@ -1,7 +1,11 @@
 # Coffee Beans Sales Analysis
 
 ### Project Overview
-asd
+This project aims to analyze the sales performance of various coffee bean types from 2019 to 2022. By examining key metrics and trends within the data, I seek to uncover insights that inform strategic decisions and make data-driven recommendations to enhance sales and customer engagement.
+
+![dashboard](https://github.com/user-attachments/assets/9f705e0d-e96f-4b83-a5bf-5ae657e64315)
+
+
 
 ### Data Sources
 The primary dataset used in this project is the "coffee_beans_data.xlsx" file. It contains the information about each order per coffee type made by the customers.
